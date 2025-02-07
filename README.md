@@ -57,8 +57,8 @@ An advanced Q&A chatbot built using **OpenAI's GPT models** and **Ollama's open-
 Feel free to fork this repo and improve it! If you have suggestions, create an issue or submit a pull request.
 
 ## 🔗 Connect with Me
-[https://www.linkedin.com/in/sachiin04/](LinkedIN)
-[https://github.com/sachiin044/](GitHub)
+[LinkedIn](https://www.linkedin.com/in/sachiin04/))
+[GitHub](https://github.com/sachiin044/)
 
 
     
