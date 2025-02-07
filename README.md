@@ -11,14 +11,43 @@ An advanced Q&A chatbot built using **OpenAI's GPT models** and **Ollama's open-
 
 ## 🛠 Installation  
 
-1. **Clone the repository:**  
-   ```sh
+1. **Clone the repository:**
    
+   ```sh
    git clone https://github.com/your-github-username/QnA-Chatbot-OpenAI-Ollama.git
    cd QnA-Chatbot-OpenAI-Ollama
-2. Create a virtual environment and activate it:
-   ```sh
    
+2. **Create a virtual environment and activate it:**
+   
+   ```sh
    python -m venv venv  
-   source venv/bin/activate  # On Windows, use venv\Scripts\activate  
+   source venv/bin/activate  # On Windows, use venv\Scripts\activate
+   
+3. **Install dependencies:**
+
+   ```sh
+
+    pip install -r requirements.txt
+     
+4. **Set up OpenAI API Key (Optional, for OpenAI models only):**
+   Create a .env file and add:
+
+   ```sh
+   echo "OPENAI_API_KEY=your-api-key-here" > .env
+
+5. **Run the chatbot app:**
+
+   ```sh
+   streamlit run app.py
+
+## **📂 Project Structure**
+📁 QnA-Chatbot-OpenAI-Ollama
+│── app.py                # Main chatbot application
+│── requirements.txt       # Dependencies
+│── .env                   # API key configuration (not included in repo)
+│── README.md              # Documentation
+│── image.png              # Screenshot of chatbot UI
+
+
+    
 
