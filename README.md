@@ -40,12 +40,12 @@ An advanced Q&A chatbot built using **OpenAI's GPT models** and **Ollama's open-
    ```sh
    streamlit run app.py
 
-## **📂 Project Structure**
-📁 QnA-Chatbot-OpenAI-Ollama
-│── app.py                # Main chatbot application /n <br>
-│── requirements.txt       # Dependencies /n <br>
-│── .env                   # API key configuration (not included in repo)
-│── README.md              # Documentation
+## **📂 Project Structure** <br>
+📁 QnA-Chatbot-OpenAI-Ollama <br>
+│── app.py                # Main chatbot application <br>
+│── requirements.txt       # Dependencies <br>
+│── .env                   # API key configuration (not included in repo) <br>
+│── README.md              # Documentation <br>
 │── image.png              # Screenshot of chatbot UI
 
 
