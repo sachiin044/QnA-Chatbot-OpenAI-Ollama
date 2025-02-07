@@ -60,10 +60,6 @@ Feel free to fork this repo and improve it! If you have suggestions, create an i
 - [LinkedIn](https://www.linkedin.com/in/sachiin04/)
 - [GitHub](https://github.com/sachiin044/)
 
-Here’s a funny ending without the coffee reference:  
-
----
-
 ## 🚀 **Final Thoughts**  
 This project was powered by late-night debugging, countless print statements, and the occasional "why isn't this working?" moment. If it helps you, great! 🎉 If it breaks... consider it an **unexpected feature**. 😆  
 
