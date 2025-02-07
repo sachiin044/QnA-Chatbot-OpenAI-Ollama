@@ -26,7 +26,6 @@ An advanced Q&A chatbot built using **OpenAI's GPT models** and **Ollama's open-
 3. **Install dependencies:**
 
    ```sh
-
     pip install -r requirements.txt
      
 4. **Set up OpenAI API Key (Optional, for OpenAI models only):**
