@@ -1,25 +1,18 @@
-# QnA-Chatbot-OpenAI-Ollama
-🚀 Developed a powerful Q&amp;A Chatbot that integrates both OpenAI GPT models and Ollama’s open-source LLMs. The chatbot is built using Streamlit for an interactive web experience, allowing users to switch between cloud-based AI (OpenAI) and local AI models (Ollama). Try it out!
+# QnA Chatbot With OpenAI & Ollama 🚀  
 
-# QnA Chatbot With OpenAI 🚀
+An advanced Q&A chatbot built using **OpenAI's GPT models** and **Ollama's open-source models**, integrated into a user-friendly **Streamlit web app**. This project enables users to interact with AI using both cloud-based (OpenAI) and local (Ollama) models.  
 
-An interactive Q&A chatbot built using OpenAI's GPT models, Streamlit, and Langchain. This project allows users to input their OpenAI API key and ask questions dynamically while adjusting model parameters such as temperature and max tokens.
+## ✨ Features  
+- 🔥 **Dual AI Model Support:** OpenAI's GPT (`gpt-4o`, `gpt-4-turbo`, `gpt-4`) and **Ollama’s open-source LLMs**.  
+- 🌐 **Web-based Interface:** Built with **Streamlit** for real-time interaction.  
+- 🎯 **Customizable AI Settings:** Adjust **temperature, max tokens**, and switch between OpenAI & Ollama models.  
+- 🛠 **Flexible API Integration:** Users can input their own **OpenAI API key**.  
+- ⚡ **Local AI Processing:** Run open-source models with **Ollama**, reducing cloud dependencies.  
 
-## ✨ Features
-- Uses OpenAI GPT models (`gpt-4o`, `gpt-4-turbo`, `gpt-4`) for generating responses.
-- Streamlit-based web UI for easy interaction.
-- Customizable settings: API Key input, Model selection, Temperature control, and Max Token limit.
-- Built with LangChain for prompt management.
+## 🛠 Installation  
 
-## 🛠 Installation
-
-1. Clone this repository:
+1. **Clone the repository:**  
    ```sh
-   git clone https://github.com/your-github-sachiin04/QnA-Chatbot-With-OpenAI.git
-   cd QnA-Chatbot-With-OpenAI
-
-2. Create a virtual environment and activate it:
-   python -m venv venv
-   source venv/bin/activate  # On Windows, use venv\Scripts\activate
-
-   
+   git clone https://github.com/your-github-username/QnA-Chatbot-OpenAI-Ollama.git
+   cd QnA-Chatbot-OpenAI-Ollama
+2. 
