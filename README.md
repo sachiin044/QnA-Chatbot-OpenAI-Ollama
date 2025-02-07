@@ -42,8 +42,8 @@ An advanced Q&A chatbot built using **OpenAI's GPT models** and **Ollama's open-
 
 ## **📂 Project Structure**
 📁 QnA-Chatbot-OpenAI-Ollama
-│── app.py                # Main chatbot application /n
-│── requirements.txt       # Dependencies /n 
+│── app.py                # Main chatbot application /n <br>
+│── requirements.txt       # Dependencies /n <br>
 │── .env                   # API key configuration (not included in repo)
 │── README.md              # Documentation
 │── image.png              # Screenshot of chatbot UI
