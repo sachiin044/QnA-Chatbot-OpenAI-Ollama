@@ -48,6 +48,11 @@ An advanced Q&A chatbot built using **OpenAI's GPT models** and **Ollama's open-
 │── README.md              # Documentation <br>
 │── image.png              # Screenshot of chatbot UI
 
+# **📌 Tech Stack**
+- Programming Language: Python 🐍
+- Framework: Streamlit 🎨
+- LLM Integration: OpenAI GPT & Ollama’s Open-Source Models 🔗
+
 
     
 
