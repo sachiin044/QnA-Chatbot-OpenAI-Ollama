@@ -15,4 +15,7 @@ An advanced Q&A chatbot built using **OpenAI's GPT models** and **Ollama's open-
    ```sh
    git clone https://github.com/your-github-username/QnA-Chatbot-OpenAI-Ollama.git
    cd QnA-Chatbot-OpenAI-Ollama
-2. 
+2. Create a virtual environment and activate it:
+   python -m venv venv  
+   source venv/bin/activate  # On Windows, use venv\Scripts\activate  
+
